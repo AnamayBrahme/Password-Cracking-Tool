@@ -13,6 +13,9 @@ The **Cyber Security Password Analyzer** is a Python-based application designed 
 - **User -Friendly Interface**: Intuitive design with a visually appealing starry background and easy navigation.
 - **About Section**: Information about the development team and the purpose of the application.
 
+
+<img width="844" alt="Screenshot 2025-04-02 at 2 00 50 PM" src="https://github.com/user-attachments/assets/447544ee-8b22-40c7-8ac1-bfa8cb4610d4" />
+
 ## Usage
 
 1. **Password Entry**: Enter a password in the provided input field. The application will analyze the strength of the password in real-time.
